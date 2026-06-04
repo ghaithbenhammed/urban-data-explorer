@@ -1,0 +1,17 @@
+# Data files
+data/bronze/*.csv
+data/bronze/*.parquet
+
+# Databases
+data/database.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+
+# Venv
+venv/
+.env

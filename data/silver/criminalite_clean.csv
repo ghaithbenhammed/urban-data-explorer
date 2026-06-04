@@ -1,0 +1,297 @@
+arrondissement,indicateur,nombre,taux_pour_mille
+1,Violences physiques intrafamiliales,67.0,4.432976
+1,Violences physiques hors cadre familial,470.0,31.0969962
+1,Violences sexuelles,202.0,13.365092
+1,Vols avec armes,8.0,0.5293106
+1,Vols violents sans arme,309.0,20.4446209
+1,Vols sans violence contre des personnes,4714.0,311.8962551
+1,Cambriolages de logement,72.0,5.1904207
+1,Vols de véhicule,54.0,3.5728464
+1,Vols dans les véhicules,403.0,26.6640201
+1,Vols d'accessoires sur véhicules,36.0,2.3818976
+1,Destructions et dégradations volontaires,380.0,25.1422522
+1,Usage de stupéfiants,1558.0,103.0832341
+1,Usage de stupéfiants (AFD),1379.0,91.23991
+1,Trafic de stupéfiants,129.0,8.535133
+1,Escroqueries et fraudes aux moyens de paiement,317.0,20.9739315
+2,Violences physiques intrafamiliales,72.0,3.6277523
+2,Violences physiques hors cadre familial,161.0,8.1120572
+2,Violences sexuelles,122.0,6.1470247
+2,Vols avec armes,7.0,0.3526981
+2,Vols violents sans arme,145.0,7.3058901
+2,Vols sans violence contre des personnes,2343.0,118.0531063
+2,Cambriolages de logement,125.0,7.21199
+2,Vols de véhicule,52.0,2.6200433
+2,Vols dans les véhicules,342.0,17.2318234
+2,Vols d'accessoires sur véhicules,47.0,2.3681161
+2,Destructions et dégradations volontaires,339.0,17.0806671
+2,Usage de stupéfiants,344.0,17.3325943
+2,Usage de stupéfiants (AFD),205.0,10.329017
+2,Trafic de stupéfiants,138.0,6.9531919
+2,Escroqueries et fraudes aux moyens de paiement,356.0,17.9372197
+3,Violences physiques intrafamiliales,92.0,2.8590074
+3,Violences physiques hors cadre familial,193.0,5.9977004
+3,Violences sexuelles,96.0,2.9833121
+3,Vols avec armes,10.0,0.3107617
+3,Vols violents sans arme,149.0,4.630349
+3,Vols sans violence contre des personnes,1964.0,61.0335933
+3,Cambriolages de logement,184.0,6.9679416
+3,Vols de véhicule,67.0,2.0821032
+3,Vols dans les véhicules,260.0,8.0798036
+3,Vols d'accessoires sur véhicules,24.0,0.745828
+3,Destructions et dégradations volontaires,358.0,11.125268
+3,Usage de stupéfiants,329.0,10.2240592
+3,Usage de stupéfiants (AFD),213.0,6.6192237
+3,Trafic de stupéfiants,116.0,3.6048355
+3,Escroqueries et fraudes aux moyens de paiement,489.0,15.196246
+4,Violences physiques intrafamiliales,85.0,3.1099078
+4,Violences physiques hors cadre familial,182.0,6.6588614
+4,Violences sexuelles,123.0,4.5002195
+4,Vols violents sans arme,134.0,4.9026782
+4,Vols sans violence contre des personnes,2545.0,93.1142983
+4,Cambriolages de logement,133.0,5.7749062
+4,Vols de véhicule,38.0,1.3903117
+4,Vols dans les véhicules,223.0,8.1589346
+4,Vols d'accessoires sur véhicules,27.0,0.9878531
+4,Destructions et dégradations volontaires,386.0,14.1226401
+4,Usage de stupéfiants,498.0,18.220401
+4,Usage de stupéfiants (AFD),418.0,15.2934289
+4,Trafic de stupéfiants,41.0,1.5000732
+4,Escroqueries et fraudes aux moyens de paiement,617.0,22.5742719
+5,Violences physiques intrafamiliales,142.0,2.5700427
+5,Violences physiques hors cadre familial,232.0,4.198943
+5,Violences sexuelles,169.0,3.0587128
+5,Vols violents sans arme,84.0,1.520307
+5,Vols sans violence contre des personnes,2682.0,48.5412293
+5,Cambriolages de logement,264.0,6.6194863
+5,Vols de véhicule,63.0,1.1402302
+5,Vols dans les véhicules,263.0,4.7600087
+5,Vols d'accessoires sur véhicules,28.0,0.506769
+5,Destructions et dégradations volontaires,447.0,8.0902049
+5,Usage de stupéfiants,326.0,5.9002389
+5,Usage de stupéfiants (AFD),254.0,4.5971187
+5,Trafic de stupéfiants,136.0,2.4614494
+5,Escroqueries et fraudes aux moyens de paiement,723.0,13.0854992
+6,Violences physiques intrafamiliales,104.0,2.5749585
+6,Violences physiques hors cadre familial,180.0,4.456659
+6,Violences sexuelles,138.0,3.4167719
+6,Vols violents sans arme,123.0,3.0453836
+6,Vols sans violence contre des personnes,2704.0,66.9489217
+6,Cambriolages de logement,226.0,7.1420271
+6,Vols de véhicule,60.0,1.485553
+6,Vols dans les véhicules,352.0,8.7152442
+6,Vols d'accessoires sur véhicules,47.0,1.1636832
+6,Destructions et dégradations volontaires,308.0,7.6258387
+6,Usage de stupéfiants,284.0,7.0316175
+6,Usage de stupéfiants (AFD),173.0,4.2833445
+6,Trafic de stupéfiants,224.0,5.5460645
+6,Escroqueries et fraudes aux moyens de paiement,593.0,14.6822155
+7,Violences physiques intrafamiliales,115.0,2.3950849
+7,Violences physiques hors cadre familial,205.0,4.2694991
+7,Violences sexuelles,166.0,3.4572529
+7,Vols violents sans arme,124.0,2.5825263
+7,Vols sans violence contre des personnes,2229.0,46.4229928
+7,Cambriolages de logement,260.0,6.613942
+7,Vols de véhicule,91.0,1.8952411
+7,Vols dans les véhicules,319.0,6.6437572
+7,Vols d'accessoires sur véhicules,53.0,1.1038217
+7,Destructions et dégradations volontaires,382.0,7.9558471
+7,Usage de stupéfiants,432.0,8.9971884
+7,Usage de stupéfiants (AFD),350.0,7.2893887
+7,Trafic de stupéfiants,81.0,1.6869728
+7,Escroqueries et fraudes aux moyens de paiement,687.0,14.3080287
+8,Violences physiques intrafamiliales,96.0,2.7182377
+8,Violences physiques hors cadre familial,510.0,14.4406377
+8,Violences sexuelles,305.0,8.6360676
+8,Vols avec armes,19.0,0.5379845
+8,Vols violents sans arme,252.0,7.1353739
+8,Vols sans violence contre des personnes,5100.0,144.4063765
+8,Cambriolages de logement,242.0,8.8328051
+8,Vols de véhicule,122.0,3.454427
+8,Vols dans les véhicules,662.0,18.744514
+8,Vols d'accessoires sur véhicules,76.0,2.1519382
+8,Destructions et dégradations volontaires,662.0,18.744514
+8,Usage de stupéfiants,2275.0,64.4165699
+8,Usage de stupéfiants (AFD),2074.0,58.7252598
+8,Trafic de stupéfiants,116.0,3.2845372
+8,Escroqueries et fraudes aux moyens de paiement,750.0,21.2362318
+9,Violences physiques intrafamiliales,118.0,2.0603796
+9,Violences physiques hors cadre familial,314.0,5.482705
+9,Violences sexuelles,234.0,4.0858375
+9,Vols avec armes,10.0,0.1746084
+9,Vols violents sans arme,348.0,6.0763737
+9,Vols sans violence contre des personnes,5082.0,88.7360095
+9,Cambriolages de logement,138.0,3.3714796
+9,Vols de véhicule,98.0,1.7111627
+9,Vols dans les véhicules,583.0,10.1796721
+9,Vols d'accessoires sur véhicules,75.0,1.3095633
+9,Destructions et dégradations volontaires,799.0,13.9512144
+9,Usage de stupéfiants,1214.0,21.1974647
+9,Usage de stupéfiants (AFD),904.0,15.784603
+9,Trafic de stupéfiants,434.0,7.5780063
+9,Escroqueries et fraudes aux moyens de paiement,940.0,16.4131934
+10,Violences physiques intrafamiliales,372.0,4.4352771
+10,Violences physiques hors cadre familial,1142.0,13.6158239
+10,Violences sexuelles,461.0,5.4964053
+10,Vols avec armes,25.0,0.2980697
+10,Vols violents sans arme,813.0,9.6932267
+10,Vols sans violence contre des personnes,7698.0,91.7816222
+10,Cambriolages de logement,217.0,3.6189927
+10,Vols de véhicule,124.0,1.4784257
+10,Vols dans les véhicules,709.0,8.4532567
+10,Vols d'accessoires sur véhicules,62.0,0.7392129
+10,Destructions et dégradations volontaires,1112.0,13.2581403
+10,Usage de stupéfiants,3647.0,43.4824079
+10,Usage de stupéfiants (AFD),2981.0,35.5418311
+10,Trafic de stupéfiants,428.0,5.1029533
+10,Escroqueries et fraudes aux moyens de paiement,1060.0,12.6381553
+11,Violences physiques intrafamiliales,370.0,2.6778606
+11,Violences physiques hors cadre familial,593.0,4.2918144
+11,Violences sexuelles,365.0,2.6416733
+11,Vols avec armes,15.0,0.1085619
+11,Vols violents sans arme,425.0,3.075921
+11,Vols sans violence contre des personnes,5480.0,39.6612868
+11,Cambriolages de logement,306.0,3.0198138
+11,Vols de véhicule,192.0,1.3895925
+11,Vols dans les véhicules,526.0,3.8069045
+11,Vols d'accessoires sur véhicules,115.0,0.832308
+11,Destructions et dégradations volontaires,1426.0,10.3206195
+11,Usage de stupéfiants,771.0,5.5800825
+11,Usage de stupéfiants (AFD),461.0,3.3364696
+11,Trafic de stupéfiants,269.0,1.946877
+11,Escroqueries et fraudes aux moyens de paiement,1853.0,13.4110154
+12,Violences physiques intrafamiliales,343.0,2.4850751
+12,Violences physiques hors cadre familial,907.0,6.5713209
+12,Violences sexuelles,521.0,3.7747058
+12,Vols avec armes,28.0,0.2028633
+12,Vols violents sans arme,523.0,3.7891961
+12,Vols sans violence contre des personnes,6922.0,50.1506984
+12,Cambriolages de logement,309.0,3.5009747
+12,Vols de véhicule,284.0,2.0576132
+12,Vols dans les véhicules,1003.0,7.2668521
+12,Vols d'accessoires sur véhicules,189.0,1.3693271
+12,Destructions et dégradations volontaires,1201.0,8.7013853
+12,Usage de stupéfiants,3428.0,24.8362604
+12,Usage de stupéfiants (AFD),3123.0,22.6264997
+12,Trafic de stupéfiants,211.0,1.5287196
+12,Escroqueries et fraudes aux moyens de paiement,1544.0,11.1864603
+13,Violences physiques intrafamiliales,618.0,3.4092602
+13,Violences physiques hors cadre familial,770.0,4.2477837
+13,Violences sexuelles,426.0,2.3500725
+13,Vols avec armes,35.0,0.1930811
+13,Vols violents sans arme,408.0,2.2507737
+13,Vols sans violence contre des personnes,6095.0,33.6236905
+13,Cambriolages de logement,355.0,3.3154998
+13,Vols de véhicule,267.0,1.4729328
+13,Vols dans les véhicules,871.0,4.8049605
+13,Vols d'accessoires sur véhicules,143.0,0.7888741
+13,Destructions et dégradations volontaires,1317.0,7.2653651
+13,Usage de stupéfiants,1637.0,9.0306778
+13,Usage de stupéfiants (AFD),1248.0,6.8847196
+13,Trafic de stupéfiants,240.0,1.3239845
+13,Escroqueries et fraudes aux moyens de paiement,1812.0,9.9960832
+14,Violences physiques intrafamiliales,347.0,2.5429629
+14,Violences physiques hors cadre familial,521.0,3.8181085
+14,Violences sexuelles,331.0,2.4257081
+14,Vols avec armes,28.0,0.2051959
+14,Vols violents sans arme,222.0,1.62691
+14,Vols sans violence contre des personnes,4566.0,33.4615807
+14,Cambriolages de logement,373.0,4.3131066
+14,Vols de véhicule,183.0,1.3411015
+14,Vols dans les véhicules,522.0,3.825437
+14,Vols d'accessoires sur véhicules,96.0,0.7035286
+14,Destructions et dégradations volontaires,1119.0,8.2005057
+14,Usage de stupéfiants,798.0,5.8480818
+14,Usage de stupéfiants (AFD),503.0,3.6861969
+14,Trafic de stupéfiants,184.0,1.3484299
+14,Escroqueries et fraudes aux moyens de paiement,1582.0,11.5935656
+15,Violences physiques intrafamiliales,667.0,2.9036232
+15,Violences physiques hors cadre familial,865.0,3.7655683
+15,Violences sexuelles,557.0,2.4247648
+15,Vols avec armes,19.0,0.0827119
+15,Vols violents sans arme,335.0,1.4583415
+15,Vols sans violence contre des personnes,5746.0,25.0138216
+15,Cambriolages de logement,956.0,6.2785317
+15,Vols de véhicule,407.0,1.7717761
+15,Vols dans les véhicules,672.0,2.9253895
+15,Vols d'accessoires sur véhicules,212.0,0.9228907
+15,Destructions et dégradations volontaires,1307.0,5.6897085
+15,Usage de stupéfiants,2426.0,10.5610044
+15,Usage de stupéfiants (AFD),1977.0,8.6063915
+15,Trafic de stupéfiants,188.0,0.8184125
+15,Escroqueries et fraudes aux moyens de paiement,2633.0,11.4621288
+16,Violences physiques intrafamiliales,367.0,2.3025862
+16,Violences physiques hors cadre familial,433.0,2.7166752
+16,Violences sexuelles,387.0,2.4280677
+16,Vols avec armes,35.0,0.2195927
+16,Vols violents sans arme,332.0,2.0829935
+16,Vols sans violence contre des personnes,4589.0,28.7917383
+16,Cambriolages de logement,621.0,6.0486997
+16,Vols de véhicule,431.0,2.7041271
+16,Vols dans les véhicules,1725.0,10.8227824
+16,Vols d'accessoires sur véhicules,222.0,1.392845
+16,Destructions et dégradations volontaires,1846.0,11.5819457
+16,Usage de stupéfiants,586.0,3.676609
+16,Usage de stupéfiants (AFD),449.0,2.8170605
+16,Trafic de stupéfiants,95.0,0.5960373
+16,Escroqueries et fraudes aux moyens de paiement,1694.0,10.628286
+17,Violences physiques intrafamiliales,436.0,2.738487
+17,Violences physiques hors cadre familial,508.0,3.1907143
+17,Violences sexuelles,345.0,2.1669221
+17,Vols avec armes,21.0,0.1318996
+17,Vols violents sans arme,313.0,1.9659322
+17,Vols sans violence contre des personnes,4510.0,28.3270105
+17,Cambriolages de logement,554.0,5.1523847
+17,Vols de véhicule,286.0,1.796347
+17,Vols dans les véhicules,971.0,6.0987865
+17,Vols d'accessoires sur véhicules,198.0,1.2436249
+17,Destructions et dégradations volontaires,1573.0,9.8799085
+17,Usage de stupéfiants,722.0,4.5348341
+17,Usage de stupéfiants (AFD),518.0,3.2535236
+17,Trafic de stupéfiants,266.0,1.6707283
+17,Escroqueries et fraudes aux moyens de paiement,1890.0,11.8709645
+18,Violences physiques intrafamiliales,490.0,2.6757387
+18,Violences physiques hors cadre familial,1020.0,5.569905
+18,Violences sexuelles,497.0,2.7139635
+18,Vols avec armes,55.0,0.300338
+18,Vols violents sans arme,1176.0,6.4217729
+18,Vols sans violence contre des personnes,9351.0,51.0629235
+18,Cambriolages de logement,730.0,5.8716095
+18,Vols de véhicule,325.0,1.7747246
+18,Vols dans les véhicules,1271.0,6.9405385
+18,Vols d'accessoires sur véhicules,151.0,0.8245644
+18,Destructions et dégradations volontaires,1586.0,8.6606563
+18,Usage de stupéfiants,3896.0,21.274853
+18,Usage de stupéfiants (AFD),2390.0,13.051052
+18,Trafic de stupéfiants,1277.0,6.9733027
+18,Escroqueries et fraudes aux moyens de paiement,1450.0,7.9180023
+19,Violences physiques intrafamiliales,642.0,3.5927943
+19,Violences physiques hors cadre familial,1087.0,6.0831267
+19,Violences sexuelles,493.0,2.7589526
+19,Vols avec armes,46.0,0.2574276
+19,Vols violents sans arme,697.0,3.9005882
+19,Vols sans violence contre des personnes,6942.0,38.8491866
+19,Cambriolages de logement,549.0,5.4380235
+19,Vols de véhicule,286.0,1.6005283
+19,Vols dans les véhicules,1644.0,9.2002395
+19,Vols d'accessoires sur véhicules,145.0,0.8114566
+19,Destructions et dégradations volontaires,1169.0,6.5420195
+19,Usage de stupéfiants,2272.0,12.7146862
+19,Usage de stupéfiants (AFD),928.0,5.1933226
+19,Trafic de stupéfiants,686.0,3.8390294
+19,Escroqueries et fraudes aux moyens de paiement,1817.0,10.1683912
+20,Violences physiques intrafamiliales,717.0,3.8727449
+20,Violences physiques hors cadre familial,788.0,4.2562385
+20,Violences sexuelles,388.0,2.0957114
+20,Vols avec armes,19.0,0.102625
+20,Vols violents sans arme,354.0,1.9120665
+20,Vols sans violence contre des personnes,3741.0,20.2063303
+20,Cambriolages de logement,464.0,4.2776625
+20,Vols de véhicule,234.0,1.2639084
+20,Vols dans les véhicules,569.0,3.0733499
+20,Vols d'accessoires sur véhicules,119.0,0.6427568
+20,Destructions et dégradations volontaires,1151.0,6.2169169
+20,Usage de stupéfiants,709.0,3.8295344
+20,Usage de stupéfiants (AFD),383.0,2.0687048
+20,Trafic de stupéfiants,210.0,1.1342768
+20,Escroqueries et fraudes aux moyens de paiement,2194.0,11.8504915

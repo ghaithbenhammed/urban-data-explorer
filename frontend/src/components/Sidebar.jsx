@@ -5,6 +5,8 @@ function Sidebar({
   setIndicateur,
   arrondissement,
   setArrondissement,
+  compareArrondissement,
+  setCompareArrondissement,
 }) {
   const changeMode = (newMode) => {
     setMode(newMode);
@@ -170,6 +172,28 @@ function Sidebar({
             {i + 1}e
           </option>
         ))}
+      </select>
+      <hr />
+
+      <h3>Comparer avec</h3>
+
+      <select
+        value={compareArrondissement}
+        onChange={(e) => setCompareArrondissement(e.target.value)}
+      >
+        <option value="all">Aucun</option>
+
+        {[...Array(20)].map((_, i) => {
+          const value = String(i + 1);
+
+          if (value === arrondissement) return null;
+
+          return (
+            <option key={value} value={value}>
+              {value}e
+            </option>
+          );
+        })}
       </select>
     </div>
   );

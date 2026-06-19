@@ -4,6 +4,7 @@ export const INDICATEURS = {
     field: "2025",
     label: "Prix médian",
     unite: "€",
+    palette: "blue",
   },
 
   rentabilite: {
@@ -11,6 +12,7 @@ export const INDICATEURS = {
     field: "rentabilite",
     label: "Rentabilité",
     unite: "%",
+    palette: "blue",
   },
 
   tension: {
@@ -18,6 +20,7 @@ export const INDICATEURS = {
     field: "tension",
     label: "Tension immobilière",
     unite: "",
+    palette: "purple",
   },
 
   "qualite-vie": {
@@ -25,6 +28,7 @@ export const INDICATEURS = {
     field: "score_qualite_vie",
     label: "Qualité de vie",
     unite: "",
+    palette: "goodbad",
   },
 
   securite: {
@@ -32,13 +36,15 @@ export const INDICATEURS = {
     field: "score_securite",
     label: "Sécurité",
     unite: "",
+    palette: "goodbad",
   },
 
   air: {
     api: "air",
     field: "score_air",
-    label: "Pollution",
+    label: "Qualité de l'air",
     unite: "",
+    palette: "goodbad",
   },
 
   transport: {
@@ -46,12 +52,14 @@ export const INDICATEURS = {
     field: "nb_arrets",
     label: "Transport",
     unite: "",
+    palette: "orange",
   },
 
   vieillissement: {
     api: "vieillissement",
     field: "score_inadaptation",
-    label: "Score vieillissement",
+    label: "Inadaptation au vieillissement",
     unite: "",
+    palette: "risk",
   },
 };
